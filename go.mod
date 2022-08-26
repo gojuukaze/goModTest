@@ -1,3 +1,3 @@
-module github.com/gojuukaze/goModTest/v3
+module github.com/gojuukaze/goModTest
 
 go 1.18

@@ -1,6 +1,6 @@
 go 1.18
 
 use (
-    ./dd
-	./core
+	./v3/core
+	./v3/dd/a
 )
