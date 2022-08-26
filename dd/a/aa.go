@@ -2,7 +2,7 @@ package a
 
 import (
 	"fmt"
-	"github.com/gojuukaze/goModTest/v4/core"
+	"github.com/gojuukaze/goModTest/v4"
 )
 
 var B = "123"
